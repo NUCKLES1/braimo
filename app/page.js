@@ -14,7 +14,6 @@ export default function Home () {
   return (
   <div>
     <Navbar />
-    {/*<HeroBanner heroBanner={bannerData.length && bannerData[0]}  />*/}
     <Section />
     <Section2 />
     <Section3 />
