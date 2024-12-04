@@ -11,7 +11,6 @@ import mini3 from "../../public/3.png";
 import mini4 from "../../public/4.png";
 import mini5 from "../../public/5.png";
 import mini6 from "../../public/6.png";
-import pic from "../../public/picture.png";
 import { RiSignalTowerFill } from "react-icons/ri";
 import { SlCalender } from "react-icons/sl";
 
