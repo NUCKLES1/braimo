@@ -44,7 +44,7 @@ const index = () => {
 
             <div className="w-[38%] text-[12px] justify-between flex ml-[14%]">
               <button className="px-4 py-2 h-10 rounded-sm text-white bg-[#FFB200]">
-                List your place
+                List your places
               </button>
               <div className="px-1 py-2 flex rounded-xl text-white">
                 <Image src={flag} alt="" className="w-5 h-5" />
