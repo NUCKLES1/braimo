@@ -12,6 +12,7 @@
     "@sanity/client": "^6.22.5",
     "@sanity/image-url": "^1.1.0",
     "@sanity/vision": "^3.64.3",
+    "firebase": "^11.0.2",
     "framer-motion": "^11.11.17",
     "groq": "^3.64.1",
     "next": "15.0.3",
