@@ -4,7 +4,6 @@ import hero from "../../public/hero.png";
 import Image from "next/image";
 import { TbWorldSearch } from "react-icons/tb";
 import { IoBed } from "react-icons/io5";
-import { FaCarSide } from "react-icons/fa";
 import bg from "../../public/bg.jpg";
 import mini1 from "../../public/1.png";
 import mini2 from "../../public/2.png";
