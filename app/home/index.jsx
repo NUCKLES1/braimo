@@ -92,7 +92,7 @@ const index = () => {
               </button>
               <button className="bg-[#D50630] text-left px-8 w-[23%] py-6 rounded-lg text-white">
                 <FaCarSide className="mb-[-22px] ml-[-18px]" />
-                Car rentals
+                Car rental
               </button>
             </div>
           </div>
