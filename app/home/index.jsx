@@ -21,7 +21,7 @@ const index = () => {
 
         <div className="w-[80%] mt-[-70vh] ml-[10%]">
           <p className="text-[30px] text-white">
-            Millions of cheap flights. One easy search.
+            Millions of cheap flights. One easy search..
           </p>
           <div className="w-full mt-8 h-auto">
             <div className="w-full flex">
